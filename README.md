@@ -3,7 +3,7 @@
 
 ### 1. Constant.py
 constant는 상수를 저장하는 데이터 형이다.
-###### tf.constant(value, dtype=None, shape=None, name='Const', verify_shape=False)
+#### tf.constant(value, dtype=None, shape=None, name='Const', verify_shape=False)
 와 같이 정의한다.
 
 * value = 상수의 값
